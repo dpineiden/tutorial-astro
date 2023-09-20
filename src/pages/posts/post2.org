@@ -1,0 +1,5 @@
+#+TITLE: Artículo 2
+
+* Presentación
+
+Este es un caso de ejemplo de segundo artículo
